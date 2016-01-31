@@ -47,7 +47,7 @@ You have four different headers (Simple, Jumbotron,Carousel,Cover). For each one
 Header (13) - Single Select TV
 * Input Option Values:"Standard==6||Jumbotron==7,8,9||Carousel==10||Cover==11,12"
 * Allow Blank: false
-* Default: 4
+* Default: 7,8,9
 * Enable typeahead: false
 
 Give each input option a label and add the ids of the TVs used as comma separated values.
